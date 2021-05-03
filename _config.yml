@@ -20,7 +20,7 @@ email: chkitras@gmail.com
 description: >-
   Class website for BYU's ECEn 493R: Computer Networking.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kitras.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://christopolise.github.io/networking-course" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Build settings
