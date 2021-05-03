@@ -16,11 +16,11 @@
 title: "ECEn 493R: Computer Networking"
 class_name: Computer Networking
 class_number: ECEn 493R
-email: lundrigan@byu.edu
+email: chkitras@gmail.com
 description: >-
   Class website for BYU's ECEn 493R: Computer Networking.
-baseurl: "/493r" # the subpath of your site, e.g. /blog
-url: "https://ecenetworking.byu.edu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kitras.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Build settings
